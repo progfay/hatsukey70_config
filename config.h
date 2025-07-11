@@ -1,5 +1,9 @@
 #pragma once
 
+#define TAPPING_TERM 150
+#define PERMISSIVE_HOLD
+#define RETRO_TAPPING
+
 #define MOUSEKEY_DELAY 100
 #define MOUSEKEY_INTERVAL 5
 #define MOUSEKEY_MAX_SPEED 5
