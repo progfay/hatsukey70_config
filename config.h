@@ -17,3 +17,7 @@
 #define MK_C_INTERVAL_2 2
 #define MK_W_OFFSET_2 1
 #define MK_W_INTERVAL_2 40
+
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
+#define LAYER_STATE_8BIT
+
